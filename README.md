@@ -10,7 +10,7 @@ An interesting guide is available [here](https://medium.com/@arnaldog12/como-eu-
 
  I used the following information sources to prepare for this certification:
  
- - [TensorFlow Tutorials]([https://www.tensorflow.org/certificate/](https://www.tensorflow.org/tutorials)
+ - [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
  - [Candidate Handbook](https://www.tensorflow.org/extras/cert/TF_Certificate_Candidate_Handbook.pdf)
  - [Udacity Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
  - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
